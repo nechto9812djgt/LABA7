@@ -37,14 +37,19 @@
     padding: 20px;
     margin-top: 30px;
     justify-content: space-between;
+    font-family:monospace;
+    font-size: 16px;
+    color: #572f26;
 }
 
 .content__info .content__comment {
     text-decoration: underline;
+    text-decoration-thickness: 1.5px;
 }
 
 .content__category {
     text-decoration: underline;
+    text-decoration-thickness: 1.5px;
 }
 
 .content__mark {
@@ -73,6 +78,7 @@
 
 .content__text {
     line-height: 190%;
+    font-size: 14px;
 }
 .font_dancing-script {
 
@@ -100,6 +106,7 @@
 }
 
 .content-menu__last-post {
+    font-size: 14px;
     color: white;
     padding: 5px 0;
     border-bottom: #0000005c solid;
@@ -113,7 +120,7 @@
 .content-menu__text {
     color: var(--textcolor);
     line-height: 160%;
-    font-size: 15px;
+    font-size: 14px;
 }
 .content-menu__top {
     height: 15px;
