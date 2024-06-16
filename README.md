@@ -48,7 +48,7 @@
         <p font-size = "12">Для выполнения этой лабораторной работы, я пользовалась:</p>
         <p> 1.  Материалом в сети интернет</p>
         </body>
-<h3 align = "center">Файл index.html</h3>
+<h3 align = "center">Файл lab7.html</h3>
 
 ```
 <!DOCTYPE html>
@@ -85,9 +85,8 @@
     </div>
     <div class="container">
         <div class="banner">
-            <img class="banner__image" src="/assets/banner-image.jpg" alt="">
-            <p class="banner__label font_dancing-script font_dancing-script_label">Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit.</p>
+            <img class="banner__image" src="assets/banner-image.jpg" alt="">
+            <p class="banner__label font_dancing-script font_dancing-script_label">Magna sed phasellus consequat lorem ipsum dolor.</p>
         </div>
     </div>
     <div class="container">
@@ -97,9 +96,14 @@
                     <p>Posted by <span style="text-decoration: underline">Someone</span> on April 14, 2012</p>
                 </div>
                 <div class="content__body">
-                    <h2 class="content__title">Lorem ipsum dolor sit amet.</h2>
-                    <img class="content__img" src="/assets/pics01.jpg" alt="">
-                    <p class="content__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut autem commodi culpa cum cumque deleniti dignissimos eaque eius enim eos est expedita facere facilis harum incidunt ipsa iste, maxime nam nemo perferendis praesentium quas sapiente sed veritatis voluptas, voluptatem voluptatum? Ducimus explicabo fugit obcaecati sit tempore. Distinctio iure officiis tempore!</p>
+                    <h2 class="content__title">Lorem ipsum sed veroeros amet</h2>
+                    <img class="content__img" src="assets/pics01.jpg" alt="">
+                    <p class="content__text">Nam vestibulum hendrerit orci, sed pharetra clit elementum in. Donec In eros sed odio varlus
+                        tempus. Vestibulum quis quam et velit rutrum omare nec a massa.  Curabitur malesuada
+                        ullamcarper nunc in suscipit. Donec semper venenatis dul sed facilisis. Morbi cangue facilisis
+                        ame in fougiat. Mauris consectour magna eu enim sagittis et bibendum lacus imperdict.
+                        Maccenas semper massa dul, Id luctus ligula. Integer hendrerit.</p>
+
                     <div class="content__info">
                         <div class="content__categories">Posted in
                             <span class="content__category">News</span>,
@@ -115,25 +119,24 @@
                 <div class="content-menu__block">
                     <div class="content__mark">About Elysa4t</div>
                     <div class="content-menu__wrapper">
-                        <p class="content-menu__text" style="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur dolorum,
-                            voluptatum, velit voluptatibus</p>
+                        <p class="content-menu__text">Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odia mauris dul, Id luctus amet ligula</p>
                     </div>
                 </div>
                 <div class="content-menu__block">
                     <div class="content__mark">Recent Post</div>
                     <div class="content-menu__wrapper">
-                        <p class="content-menu__last-post">Lorem ipsum dolor sit amet.</p>
-                        <p class="content-menu__last-post">Lorem ipsum dolor sit amet.</p>
-                        <p class="content-menu__last-post">Lorem ipsum dolor sit amet.</p>
-                        <p class="content-menu__last-post">Lorem ipsum dolor sit amet.</p>
-                        <p class="content-menu__last-post">Lorem ipsum dolor sit amet.</p>
+                        <p class="content-menu__last-post">Hendrerit onci sed phanebra elit</p>
+                        <p class="content-menu__last-post">Donec In eros odia varius tempus</p>
+                        <p class="content-menu__last-post">Vestibulum quis quam et velit</p>
+                        <p class="content-menu__last-post">Rutrum omare nec sed curabitur</p>
+                        <p class="content-menu__last-post">Malesuada ullamcorper nunc</p>
                     </div>
                 </div>
                 <div class="content-menu__block">
                     <div class="content__mark">Something Else</div>
                     <div class="content-menu__wrapper">
                         <p class="content-menu__text">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi consequatur debitis est fugit illo nostrum!
+                            Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odia mauris dul, Id luctus amet ligula
                         </p>
                     </div>
                 </div>
@@ -147,24 +150,24 @@
                 <div class="widget-info">
                     <div class="widget-info__top"></div>
                     <div class="widget-info__content">
-                        <div class="widget-info__title">Lorem ipsum dolor.</div>
-                        <div class="widget-info__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor ex expedita incidunt laborum numquam odit pariatur reiciendis tempora ullam.</div>
+                        <div class="widget-info__title">Just another widget</div>
+                        <div class="widget-info__body">Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odia mauris dul, Id luctus amet ligula</div>
                     </div>
                     <div class="widget-info__bottom"></div>
                 </div>
                 <div class="widget-info">
                     <div class="widget-info__top"></div>
                     <div class="widget-info__content">
-                        <div class="widget-info__title">Lorem ipsum dolor.</div>
-                        <div class="widget-info__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor ex expedita incidunt laborum numquam odit pariatur reiciendis tempora ullam.</div>
+                        <div class="widget-info__title">Just another widget</div>
+                        <div class="widget-info__body">Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odia mauris dul, Id luctus amet ligula</div>
                     </div>
                     <div class="widget-info__bottom"></div>
                 </div>
                 <div class="widget-info">
                     <div class="widget-info__top"></div>
                     <div class="widget-info__content">
-                        <div class="widget-info__title">Lorem ipsum dolor.</div>
-                        <div class="widget-info__body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque dolor ex expedita incidunt laborum numquam odit pariatur reiciendis tempora ullam.</div>
+                        <div class="widget-info__title">Just another widget</div>
+                        <div class="widget-info__body">Mauris consectetur magna eu enim sagittis et bibendum lacus imperdiet. Maecenas semper massa amet et odia mauris dul, Id luctus amet ligula</div>
                     </div>
                     <div class="widget-info__bottom"></div>
                 </div>
@@ -172,7 +175,7 @@
         </div>
     </div>
     <div class="container">
-        <div class="copyright">© Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum laboriosam magni molestias neque sunt voluptas.</div>
+        <div class="copyright">© Your Website Name | Elysa4t by <span style="text-decoration: underline;">4Templates</span> | Photoes by <span style="text-decoration: underline;">Fotogrph</span></div>
     </div>
 </body>
 </html>
@@ -253,18 +256,22 @@
     padding: 20px;
     margin-top: 30px;
     justify-content: space-between;
+    font-family:monospace;
+    font-size: 16px;
+    color: #572f26;
 }
 
 .content__info .content__comment {
     text-decoration: underline;
+    text-decoration-thickness: 1.5px;
 }
 
 .content__category {
     text-decoration: underline;
+    text-decoration-thickness: 1.5px;
 }
 
 .content__mark {
-
     position: absolute;
     width: 330px;
     padding-top: 10px;
@@ -290,6 +297,7 @@
 
 .content__text {
     line-height: 190%;
+    font-size: 14px;
 }
 .font_dancing-script {
 
@@ -317,6 +325,7 @@
 }
 
 .content-menu__last-post {
+    font-size: 14px;
     color: white;
     padding: 5px 0;
     border-bottom: #0000005c solid;
@@ -330,7 +339,7 @@
 .content-menu__text {
     color: var(--textcolor);
     line-height: 160%;
-    font-size: 15px;
+    font-size: 14px;
 }
 .content-menu__top {
     height: 15px;
@@ -442,7 +451,7 @@ body {
 .widgets-info__wrapper {
     width: 100%;
     overflow: hidden;
-    padding: 40px 0 30px 0;
+    padding: 10px 0 5px 0;
     background: url(assets/footer-content-bg-02.png) repeat-x left top;
     display: flex;
     flex-direction: row;
@@ -466,6 +475,8 @@ body {
 }
 .widget-info__body {
     color: #E1C9C4;
+    line-height: 190%;
+    font-size: 14px;
 }
 
 .container:has(>.copyright) {
