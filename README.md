@@ -507,6 +507,8 @@ body {
     color: white;
 }
 ```
+<h2 align = "center">Результат</h2>
+<img src="результат.png">
 </html>
 <br>
  <h2 align = "center">Вывод</h2>
